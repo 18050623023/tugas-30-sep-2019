@@ -1,3 +1,7 @@
+// Hafiz Rizqon Adinata
+// 18050623023
+// D3 Manajemen Informatika 2018
+
 <?php
 
 abstract class binatang{
